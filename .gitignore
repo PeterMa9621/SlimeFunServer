@@ -114,3 +114,7 @@ plugins/ItemsAdder/storage/data.yml
 cache1/mojang_1.15.2.jar
 
 cache1/patched_1.15.2.jar
+
+cache/mojang_1.15.2.jar
+
+cache/patched_1.15.2.jar
