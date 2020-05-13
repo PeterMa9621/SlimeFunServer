@@ -1,0 +1,97 @@
+databaseName: minecraft
+maxExpPerMinute: 30
+bonusExpCard:
+  normal:
+    itemId: 'STICK'
+    customModelId: 40
+    displayName: '&f1.5倍经验卡'
+    lore:
+    - '&6使用后所有获得历练经验 × 1.5'
+    - '&6有效时长: &215分钟'
+    - '&5右键使用'
+    times: 1.5
+    duration: 15
+  double:
+    itemId: 'STICK'
+    customModelId: 34
+    displayName: '&f2倍经验卡'
+    lore:
+    - '&6使用后所有获得历练经验 × 2'
+    - '&6有效时长: &22小时'
+    - '&5右键使用'
+    times: 2
+    duration: 120
+  triple:
+    itemId: 'STICK'
+    customModelId: 35
+    displayName: '&f3倍经验卡'
+    lore:
+    - '&6使用后所有获得历练经验 × 3'
+    - '&6有效时长: &22小时'
+    - '&5右键使用'
+    times: 3
+    duration: 120
+maxLevel: 35
+chatPrefix: true
+formula:
+  coefficient:
+  - 10.0
+  - 10.0
+  - 80.0
+  power:
+  - 2.0
+  - 1.5
+  - 1.0
+reward:
+  '2':
+    msg: '升级奖励:&2100金币'
+    command:
+    - eco give %player% 100
+  '3':
+    msg: '升级奖励:&2150金币'
+    command:
+    - eco give %player% 150
+  '4':
+    msg: '升级奖励:&2200金币'
+    command:
+    - eco give %player% 200
+  '5':
+    msg: '升级奖励:&2250金币'
+    command:
+    - eco give %player% 250
+    - ls give %player% normal 1
+  '10':
+    msg: '升级奖励:&2500金币,九选一抽奖箱钥匙一把'
+    command:
+    - eco give %player% 500
+    - cc give p 九选一 1 %player%
+    - ls give %player% normal 1
+  '15':
+    msg: '升级奖励:&21000金币,快速抽奖箱钥匙一把'
+    command:
+    - eco give %player% 1000
+    - cc give p 快速 1 %player%
+    - ls give %player% normal 1
+  '20':
+    msg: '升级奖励:&21000金币,老虎机抽奖箱钥匙一把'
+    command:
+    - eco give %player% 1000
+    - cc give p 老虎机 1 %player%
+    - ls give %player% normal 1
+  '25':
+    msg: '升级奖励:&21000金币,跑马灯抽奖箱钥匙一把'
+    command:
+    - eco give %player% 1000
+    - cc give p 跑马灯 1 %player%
+    - ls give %player% normal 1
+  '30':
+    msg: '升级奖励:&21000金币,烟花抽奖箱钥匙一把'
+    command:
+    - eco give %player% 1000
+    - cc give p 烟花 1 %player%
+    - ls give %player% normal 1
+  '35':
+    msg: '升级奖励:&21000金币,疯狂抽奖箱钥匙一把'
+    command:
+    - eco give %player% 1000
+    - cc give p 疯狂 1 %player%

@@ -1,6 +1,7 @@
 # This file is used to assign items from Slimefun or any of its addons
 # the 'CustomModelData' NBT tag. This can be used in conjunction with a custom resource pack
 # to give items custom textures.
+# 0 means there is no data assigned to that item.
 # 
 # There is no official Slimefun resource pack at the moment.
 SLIMEFUN_GUIDE: 0
@@ -197,7 +198,7 @@ WHIRLWIND_TALISMAN: 0
 ENDER_WHIRLWIND_TALISMAN: 0
 WIZARD_TALISMAN: 0
 ENDER_WIZARD_TALISMAN: 0
-LUMBER_AXE: 0
+LUMBER_AXE: 1
 SALT: 0
 HEAVY_CREAM: 0
 CHEESE: 0

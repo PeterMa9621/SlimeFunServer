@@ -1,0 +1,78 @@
+info:
+  namespace: mjy
+recipes:
+  crafting_table:
+    qianghuatai:
+      permission: mjy.qianghuatai
+      enabled: true
+      pattern:
+      - RRR
+      - XCX
+      - XXX
+      ingredients:
+        C: CRAFTING_TABLE
+        R: mjy:qingshuijing
+      result:
+        item: mjy:qianghuatai
+        amount: 1
+items:
+  qianghuatai:
+    display_name: 强化台
+    permission: qianghuatai
+    resource:
+      material: SMITHING_TABLE
+      generate: false
+      model_path: block/qianghuatai
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL
+          break_particles: BLOCK
+        light_level: 6
+    behaviours:
+      block_trade_machine:
+        trades_list:
+          ronglianshi:
+            ingredients:
+              slot1:
+                item: DIAMOND
+                amount: 3
+              slot2:
+                item: mjy:ronglianshisuikuai
+                amount: 10
+            result:
+              item: mjy:ronglianshi
+              amount: 1
+          jingangshi:
+            ingredients:
+              slot1:
+                item: mjy:nianheji
+                amount: 1
+              slot2:
+                item: mjy:jingangshisuikuai
+                amount: 8
+            result:
+              item: mjy:jingangshi
+              amount: 1
+          xingyunbaoshi:
+            ingredients:
+              slot1:
+                item: mjy:nianheji
+                amount: 1
+              slot2:
+                item: mjy:xingyunbaoshisuikuai
+                amount: 8
+            result:
+              item: mjy:xingyunbaoshi
+              amount: 1
+          baoshi:
+            ingredients:
+              slot1:
+                item: mjy:nianheji
+                amount: 1
+              slot2:
+                item: mjy:baoshisuikuai
+                amount: 2
+            result:
+              item: mjy:baoshi
+              amount: 1
