@@ -1,5 +1,5 @@
 options:
-  auto-update: true
+  auto-update: false
 resin-chance:
   standard: 12
   reinforced: 24

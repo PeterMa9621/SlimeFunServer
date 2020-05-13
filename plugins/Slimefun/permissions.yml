@@ -48006,3 +48006,233 @@ ENERGY_RECEIVER:
   lore:
   - '&rYou do not have the permission'
   - '&rto access this item.'
+苹果汁:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+椰奶:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+樱桃汁:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+石榴汁:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+柠檬汁:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+酸梅汁:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+酸橙汁:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+橙汁:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+桃汁:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+梨汁:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+火龙果汁:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+VITA_LEMON_TEA:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ICE_COLA:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+QUIRP_UP:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+QUIRP_DOWN:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+QUIRP_LEFT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+QUIRP_RIGHT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+QUIRPCONDENSATE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+UNSTABLEINGOT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+UNSTABLEINGOT2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+UNSTABLEINGOT3:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+UNSTABLEINGOT4:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ZOT_UP:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ZOT_DOWN:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ZOT_LEFT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ZOT_RIGHT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+STABLEINGOT:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+STABLEBLOCK:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+QUIRP_SCATTERER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+NANOBOT_CRAFTER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+QUIRP_OSCILLATOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ZOT_UP_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ZOT_DOWN_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ZOT_LEFT_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ZOT_RIGHT_2:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+DAXI_STRENGTH:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+DAXI_ABSORPTION:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+DAXI_FORTITUDE:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+DAXI_SATURATION:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+DAXI_REGENERATION:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+VERTICAL_POLARIZER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+HORIZONTAL_POLARIZER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+QUIRP_ANNIHILATOR:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+QUIRP_CYCLER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+STABILIZER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
+ZOT_OVERLOADER:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'

@@ -1,5 +1,11 @@
+# 
+# 研究等级，可自行更改
 options:
-  auto-update: true
+  update-check: true
+  research-give-fireworks: true
+  anti-altar-glitch: false
+  enchanter-level-limit: 0
+  auto-update: false
   chat-prefix: '&a&lSlimefun 4 &7>'
   armor-update-interval: 10
   enable-armor-effects: true
@@ -16,6 +22,8 @@ guide:
   show-vanilla-recipes: true
   receive-on-first-join: true
 researches:
+  use-money-unlock: false
+  money-multiply: 25.0
   free-in-creative-mode: true
   enable-fireworks: true
 URID:

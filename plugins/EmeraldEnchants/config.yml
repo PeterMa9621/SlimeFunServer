@@ -1,0 +1,2433 @@
+effect-delay: 10
+roman-numerals: true
+options:
+  auto-update: true
+FARMER_SPIRIT:
+  enabled: true
+  description:
+  - Trampling Crops will never have
+  - to worry you again
+enchantment-table:
+  ENCHANTED_BOOK:
+    FARMER_SPIRIT: true
+    VEIN_MINER: true
+    TIMBER: true
+    ICE_ASPECT: true
+    VAMPIRISM: true
+    XP_STEALER: true
+    PECKISH: true
+    ARROW_REFLECTOR: true
+    VENOM: true
+    ZOMBIE_FLU: true
+    CONCEALING: true
+    PUZZLEMENT: true
+    WITHERING: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    METAL_HEAD: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  LEATHER_BOOTS:
+    FARMER_SPIRIT: true
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  IRON_BOOTS:
+    FARMER_SPIRIT: true
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  GOLDEN_BOOTS:
+    FARMER_SPIRIT: true
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  CHAINMAIL_BOOTS:
+    FARMER_SPIRIT: true
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  DIAMOND_BOOTS:
+    FARMER_SPIRIT: true
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  WOODEN_PICKAXE:
+    VEIN_MINER: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  STONE_PICKAXE:
+    VEIN_MINER: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  IRON_PICKAXE:
+    VEIN_MINER: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  GOLDEN_PICKAXE:
+    VEIN_MINER: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  DIAMOND_PICKAXE:
+    VEIN_MINER: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  WOODEN_AXE:
+    VEIN_MINER: true
+    TIMBER: true
+    ICE_ASPECT: true
+    VAMPIRISM: true
+    XP_STEALER: true
+    PECKISH: true
+    VENOM: true
+    ZOMBIE_FLU: true
+    CONCEALING: true
+    PUZZLEMENT: true
+    WITHERING: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  STONE_AXE:
+    VEIN_MINER: true
+    TIMBER: true
+    ICE_ASPECT: true
+    VAMPIRISM: true
+    XP_STEALER: true
+    PECKISH: true
+    VENOM: true
+    ZOMBIE_FLU: true
+    CONCEALING: true
+    PUZZLEMENT: true
+    WITHERING: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  IRON_AXE:
+    VEIN_MINER: true
+    TIMBER: true
+    ICE_ASPECT: true
+    VAMPIRISM: true
+    XP_STEALER: true
+    PECKISH: true
+    VENOM: true
+    ZOMBIE_FLU: true
+    CONCEALING: true
+    PUZZLEMENT: true
+    WITHERING: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  GOLDEN_AXE:
+    VEIN_MINER: true
+    TIMBER: true
+    ICE_ASPECT: true
+    VAMPIRISM: true
+    XP_STEALER: true
+    PECKISH: true
+    VENOM: true
+    ZOMBIE_FLU: true
+    CONCEALING: true
+    PUZZLEMENT: true
+    WITHERING: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  DIAMOND_AXE:
+    VEIN_MINER: true
+    TIMBER: true
+    ICE_ASPECT: true
+    VAMPIRISM: true
+    XP_STEALER: true
+    PECKISH: true
+    VENOM: true
+    ZOMBIE_FLU: true
+    CONCEALING: true
+    PUZZLEMENT: true
+    WITHERING: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  WOODEN_SHOVEL:
+    VEIN_MINER: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  STONE_SHOVEL:
+    VEIN_MINER: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  IRON_SHOVEL:
+    VEIN_MINER: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  GOLDEN_SHOVEL:
+    VEIN_MINER: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  DIAMOND_SHOVEL:
+    VEIN_MINER: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  WOODEN_SWORD:
+    ICE_ASPECT: true
+    VAMPIRISM: true
+    XP_STEALER: true
+    PECKISH: true
+    VENOM: true
+    ZOMBIE_FLU: true
+    CONCEALING: true
+    PUZZLEMENT: true
+    WITHERING: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  STONE_SWORD:
+    ICE_ASPECT: true
+    VAMPIRISM: true
+    XP_STEALER: true
+    PECKISH: true
+    VENOM: true
+    ZOMBIE_FLU: true
+    CONCEALING: true
+    PUZZLEMENT: true
+    WITHERING: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  IRON_SWORD:
+    ICE_ASPECT: true
+    VAMPIRISM: true
+    XP_STEALER: true
+    PECKISH: true
+    VENOM: true
+    ZOMBIE_FLU: true
+    CONCEALING: true
+    PUZZLEMENT: true
+    WITHERING: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  GOLDEN_SWORD:
+    ICE_ASPECT: true
+    VAMPIRISM: true
+    XP_STEALER: true
+    PECKISH: true
+    VENOM: true
+    ZOMBIE_FLU: true
+    CONCEALING: true
+    PUZZLEMENT: true
+    WITHERING: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  DIAMOND_SWORD:
+    ICE_ASPECT: true
+    VAMPIRISM: true
+    XP_STEALER: true
+    PECKISH: true
+    VENOM: true
+    ZOMBIE_FLU: true
+    CONCEALING: true
+    PUZZLEMENT: true
+    WITHERING: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  BOW:
+    ICE_ASPECT: true
+    VENOM: true
+    ZOMBIE_FLU: true
+    CONCEALING: true
+    PUZZLEMENT: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  LEATHER_LEGGINGS:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  IRON_LEGGINGS:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  GOLDEN_LEGGINGS:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  CHAINMAIL_LEGGINGS:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  DIAMOND_LEGGINGS:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  LEATHER_CHESTPLATE:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  IRON_CHESTPLATE:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  GOLDEN_CHESTPLATE:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  CHAINMAIL_CHESTPLATE:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  DIAMOND_CHESTPLATE:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  LEATHER_HELMET:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    METAL_HEAD: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  IRON_HELMET:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    METAL_HEAD: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  GOLDEN_HELMET:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    METAL_HEAD: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  CHAINMAIL_HELMET:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    METAL_HEAD: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  DIAMOND_HELMET:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    METAL_HEAD: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  TURTLE_HELMET:
+    ARROW_REFLECTOR: true
+    THERMAL: true
+    MAGICAL_PROTECTION: true
+    POISONOUS_PROTECTION: true
+    WITHER_PROTECTION: true
+    ENDER_PEARL_PROTECTION: true
+    PRICK_PROTECTION: true
+    MAGNETIC_AURA: true
+    METAL_HEAD: true
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  CARROT_ON_A_STICK:
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  ELYTRA:
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  CROSSBOW:
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  SHIELD:
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  WOODEN_HOE:
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  STONE_HOE:
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  IRON_HOE:
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  GOLDEN_HOE:
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  DIAMOND_HOE:
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  FLINT_AND_STEEL:
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  FISHING_ROD:
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  SHEARS:
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+  TRIDENT:
+    SPEED: true
+    SLOWNESS: true
+    HASTE: true
+    MINING_FATIGUE: true
+    STRENGTH: true
+    HEAL: false
+    HARM: false
+    JUMP_BOOST: true
+    NAUSEA: false
+    REGENERATION: true
+    RESISTANCE: true
+    FIRE_RESISTANCE: true
+    WATER_BREATHING: true
+    INVISIBILITY: true
+    BLINDNESS: false
+    NIGHT_VISION: true
+    HUNGER: true
+    WEAKNESS: true
+    POISON: false
+    WITHER: false
+    HEALTH_BOOST: true
+    ABSORPTION: true
+    SATURATION: true
+    GLOWING: true
+    LEVITATION: false
+    LUCK: true
+    BAD_LUCK: true
+    SLOW_FALLING: true
+    CONDUIT_POWER: false
+    DOLPHINS_GRACE: false
+    BAD_OMEN: false
+    HERO_OF_THE_VILLAGE: false
+VEIN_MINER:
+  enabled: true
+  description:
+  - Allows you to mine all
+  - Blocks of the same Type
+  - at once
+TIMBER:
+  enabled: true
+  description:
+  - Allows you to chop all
+  - Logs of a Tree at once
+ICE_ASPECT:
+  enabled: true
+  description:
+  - Slows down and weakens your
+  - Enemies
+VAMPIRISM:
+  enabled: true
+  description:
+  - Absorbs a small fraction of your Opponent's Health
+XP_STEALER:
+  enabled: true
+  description:
+  - Steals a small bit of XP from Players you damage
+PECKISH:
+  enabled: true
+  description:
+  - Absorbs a small fraction of your Opponent's Food Level
+ARROW_REFLECTOR:
+  enabled: true
+  description:
+  - 'Reflects Arrows '
+VENOM:
+  enabled: true
+  description:
+  - Poisons your Enemies
+ZOMBIE_FLU:
+  enabled: true
+  description:
+  - Gives your Enemies Hunger
+CONCEALING:
+  enabled: true
+  description:
+  - Gives your Enemies Blindness
+PUZZLEMENT:
+  enabled: true
+  description:
+  - Gives your Enemies Nausea
+WITHERING:
+  enabled: true
+  description:
+  - Gives your Enemies the Wither Effect
+THERMAL:
+  enabled: true
+  description:
+  - Sets Attackers on Fire
+MAGICAL_PROTECTION:
+  enabled: true
+  description:
+  - Protection against Potions
+  - of Harming
+POISONOUS_PROTECTION:
+  enabled: true
+  description:
+  - Protection against Potions
+  - of Poison
+WITHER_PROTECTION:
+  enabled: true
+  description:
+  - Protection against Damage taken
+  - from the Wither Effect
+ENDER_PEARL_PROTECTION:
+  enabled: true
+  description:
+  - Protection against Damage taken
+  - from throwing an Enderpearl
+PRICK_PROTECTION:
+  enabled: true
+  description:
+  - Protection against Damage taken
+  - from Cacti and Bushes
+MAGNETIC_AURA:
+  enabled: true
+  description:
+  - Picks up all nearby Items while
+  - being worn
+METAL_HEAD:
+  enabled: true
+  description:
+  - Protection against Damage taken
+  - from fallen Blocks (e.g. Anvils)
+SPEED:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Speed"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+SLOWNESS:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Slowness"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+HASTE:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Haste"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+MINING_FATIGUE:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Mining Fatigue"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+STRENGTH:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Strength"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+HEAL:
+  enabled: false
+HARM:
+  enabled: false
+JUMP_BOOST:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Jump Boost"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+NAUSEA:
+  enabled: false
+REGENERATION:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Regeneration"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+RESISTANCE:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Resistance"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+FIRE_RESISTANCE:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Fire Resistance"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+WATER_BREATHING:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Water Breathing"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+INVISIBILITY:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Invisibility"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+BLINDNESS:
+  enabled: false
+NIGHT_VISION:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Night Vision"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+HUNGER:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Hunger"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+WEAKNESS:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Weakness"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+POISON:
+  enabled: false
+WITHER:
+  enabled: false
+HEALTH_BOOST:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Health Boost"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+ABSORPTION:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Absorption"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+SATURATION:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Saturation"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+GLOWING:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Glowing"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+LEVITATION:
+  enabled: false
+LUCK:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Luck"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+BAD_LUCK:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Bad Luck"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+SLOW_FALLING:
+  enabled: true
+  description:
+  - Gives you the Potion Effect
+  - '"Slow Falling"'
+  - while wearing or carrying an Item
+  - with this Enchantment
+CONDUIT_POWER:
+  enabled: false
+DOLPHINS_GRACE:
+  enabled: false
+BAD_OMEN:
+  enabled: false
+HERO_OF_THE_VILLAGE:
+  enabled: false

@@ -46,6 +46,8 @@ backpack:
   already-open: '&c抱歉, 这个背包已在别处打开了!'
   no-stack: '&c你不能将背包堆叠起来'
 commands:
+  reload: 重载配置文件
+  transform: 将物品转换为英文物品
   cheat: 允许你通过作弊获取 Slimefun 的物品
   give: 给某人 Slimefun 物品
   guide: 给你自己一本 Slimefun 指南
@@ -208,6 +210,8 @@ machines:
   unknown-material: '&e抱歉, 我无法识别在发射器里的物品. 请按照合成表放置物品.'
   wrong-item: '&e抱歉, 我无法识别你右键的物品. 检查指南书看看哪些物品可以使用.'
 messages:
+  above-limit-level: '&c你要附魔或祛魔的物品附魔等级超过上限!'
+  not-right-item: '&c目前支持转换的方块: 已修复的刷怪笼'
   cannot-place: '&c你不能在这里放置方块!'
   diet-cookie: '&e你感觉变轻了...'
   disabled-in-world: '&4&l这个物品在此世界已被禁用'

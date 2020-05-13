@@ -1004,3 +1004,34 @@ slimexpansion:
   astronaut_food:
     cost: 45
     enabled: true
+transcendence:
+  unstable:
+    cost: 23
+    enabled: true
+  stable:
+    cost: 30
+    enabled: true
+  quirp_scatterer:
+    cost: 20
+    enabled: true
+  nanobot_crafter:
+    cost: 15
+    enabled: true
+  quirp_oscillator:
+    cost: 37
+    enabled: true
+  zots:
+    cost: 30
+    enabled: true
+  daxis:
+    cost: 30
+    enabled: true
+  polarizers:
+    cost: 23
+    enabled: true
+  quirp_annihilator:
+    cost: 40
+    enabled: true
+  zot_overloader:
+    cost: 35
+    enabled: true

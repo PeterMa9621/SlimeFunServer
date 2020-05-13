@@ -1,7 +1,6 @@
 # This file is used to assign items from Slimefun or any of its addons
 # the 'CustomModelData' NBT tag. This can be used in conjunction with a custom resource pack
 # to give items custom textures.
-# 0 means there is no data assigned to that item.
 # 
 # There is no official Slimefun resource pack at the moment.
 SLIMEFUN_GUIDE: 0
@@ -9615,3 +9614,49 @@ NANO_BLADE: 0
 FOOD_SYNTHESIZER: 0
 ENERGY_TRANSMITTER: 0
 ENERGY_RECEIVER: 0
+苹果汁: 0
+椰奶: 0
+樱桃汁: 0
+石榴汁: 0
+柠檬汁: 0
+酸梅汁: 0
+酸橙汁: 0
+橙汁: 0
+桃汁: 0
+梨汁: 0
+火龙果汁: 0
+VITA_LEMON_TEA: 0
+ICE_COLA: 0
+QUIRP_UP: 0
+QUIRP_DOWN: 0
+QUIRP_LEFT: 0
+QUIRP_RIGHT: 0
+QUIRPCONDENSATE: 0
+UNSTABLEINGOT: 0
+UNSTABLEINGOT2: 0
+UNSTABLEINGOT3: 0
+UNSTABLEINGOT4: 0
+ZOT_UP: 0
+ZOT_DOWN: 0
+ZOT_LEFT: 0
+ZOT_RIGHT: 0
+STABLEINGOT: 0
+STABLEBLOCK: 0
+QUIRP_SCATTERER: 0
+NANOBOT_CRAFTER: 0
+QUIRP_OSCILLATOR: 0
+ZOT_UP_2: 0
+ZOT_DOWN_2: 0
+ZOT_LEFT_2: 0
+ZOT_RIGHT_2: 0
+DAXI_STRENGTH: 0
+DAXI_ABSORPTION: 0
+DAXI_FORTITUDE: 0
+DAXI_SATURATION: 0
+DAXI_REGENERATION: 0
+VERTICAL_POLARIZER: 0
+HORIZONTAL_POLARIZER: 0
+QUIRP_ANNIHILATOR: 0
+QUIRP_CYCLER: 0
+STABILIZER: 0
+ZOT_OVERLOADER: 0

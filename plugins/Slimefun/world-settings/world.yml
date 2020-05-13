@@ -867,6 +867,19 @@ exoticgarden:
   SLIME_ESSENCE: true
   CROOK: true
   GRASS_SEEDS: true
+  苹果汁: true
+  椰奶: true
+  樱桃汁: true
+  石榴汁: true
+  柠檬汁: true
+  酸梅汁: true
+  酸橙汁: true
+  橙汁: true
+  桃汁: true
+  梨汁: true
+  火龙果汁: true
+  VITA_LEMON_TEA: true
+  ICE_COLA: true
 barrels:
   enabled: true
   BARREL_SMALL: true
@@ -9641,3 +9654,38 @@ slimexpansion:
   FOOD_SYNTHESIZER: true
   ENERGY_TRANSMITTER: true
   ENERGY_RECEIVER: true
+transcendence:
+  enabled: true
+  QUIRP_UP: true
+  QUIRP_DOWN: true
+  QUIRP_LEFT: true
+  QUIRP_RIGHT: true
+  QUIRPCONDENSATE: true
+  UNSTABLEINGOT: true
+  UNSTABLEINGOT2: true
+  UNSTABLEINGOT3: true
+  UNSTABLEINGOT4: true
+  ZOT_UP: true
+  ZOT_DOWN: true
+  ZOT_LEFT: true
+  ZOT_RIGHT: true
+  STABLEINGOT: true
+  STABLEBLOCK: true
+  QUIRP_SCATTERER: true
+  NANOBOT_CRAFTER: true
+  QUIRP_OSCILLATOR: true
+  ZOT_UP_2: true
+  ZOT_DOWN_2: true
+  ZOT_LEFT_2: true
+  ZOT_RIGHT_2: true
+  DAXI_STRENGTH: true
+  DAXI_ABSORPTION: true
+  DAXI_FORTITUDE: true
+  DAXI_SATURATION: true
+  DAXI_REGENERATION: true
+  VERTICAL_POLARIZER: true
+  HORIZONTAL_POLARIZER: true
+  QUIRP_ANNIHILATOR: true
+  QUIRP_CYCLER: true
+  STABILIZER: true
+  ZOT_OVERLOADER: true
