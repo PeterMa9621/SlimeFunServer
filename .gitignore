@@ -118,3 +118,7 @@ cache1/patched_1.15.2.jar
 cache/mojang_1.15.2.jar
 
 cache/patched_1.15.2.jar
+
+data-storage/Slimefun/block-backups/
+
+data-storage/CS-CoreLib/PlayerStats/
