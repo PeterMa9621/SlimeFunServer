@@ -278,5 +278,4 @@ workbench:
   not-enhanced: '&4你不能在普通的工作台上使用粘液科技物品'
 language: zh-CN
 hotbarpets:
-  neglected-pet: '&9Your %pet% &9would have helped you if you did not neglect it by
-    not feeding it :('
+  neglected-pet: '&9你的 %pet% &9会帮助你，只要你不忽视它，常给它喂食 :('
