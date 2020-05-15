@@ -1682,7 +1682,7 @@ FARMER_SHOES:
   allow-enchanting: true
   allow-disenchanting: true
 EXPLOSIVE_PICKAXE:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -1690,7 +1690,7 @@ EXPLOSIVE_PICKAXE:
   damage-on-use: true
   unbreakable-blocks: []
 EXPLOSIVE_SHOVEL:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true

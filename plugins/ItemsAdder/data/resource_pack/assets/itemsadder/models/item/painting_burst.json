@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:item/base/furniture_painting",
-  "textures": {
-    "0": "itemsadder:item/painting_burst/painting",
-    "1": "itemsadder:item/painting_burst/back",
-    "particle": "itemsadder:item/painting_burst/painting"
-  }
-}
