@@ -108,23 +108,10 @@ GUI:
             Use: false
             Number: 2
       '5':
-        Position: 9
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'PLAYER_HEAD'
-        Name: §6传送至副本世界
-        Lore: §2点击传送至副本世界
-        Function:
-          Command:
-            Use: true
-            Content: /warp fb
-          OpenAnotherGUI:
-            Use: false
-            Number: 2
-      '6':
         Position: 7
         # 物品ID为 "主ID:附加值"
-        ItemID: 'PAPER'
-        Model: 41
+        ItemID: 'NETHER_STAR'
+        Model: 0
         Name: §6传送至抽奖屋
         Lore: §2点击传送至抽奖屋
         Function:
@@ -134,7 +121,7 @@ GUI:
           OpenAnotherGUI:
             Use: false
             Number: 2
-      '7':
+      '6':
         Position: 3
         # 物品ID为 "主ID:附加值"
         ItemID: 'NETHERRACK'
@@ -147,7 +134,7 @@ GUI:
           OpenAnotherGUI:
             Use: false
             Number: 2
-      '8':
+      '7':
         Position: 4
         # 物品ID为 "主ID:附加值"
         ItemID: 'END_STONE'
@@ -160,10 +147,10 @@ GUI:
           OpenAnotherGUI:
             Use: false
             Number: 2
-      '9':
+      '8':
         Position: 6
         # 物品ID为 "主ID:附加值"
-        ItemID: 'STICK'
+        ItemID: 'EMERALD'
         Model: 29
         Name: §6传送至主城商店
         Lore: §2点击传送至主城商店
