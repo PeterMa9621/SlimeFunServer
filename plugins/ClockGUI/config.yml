@@ -27,10 +27,10 @@ GUI:
       # 第一个按钮
       '1':
         # 按钮位置(0号为左上角第一个)
-        Position: 35
+        Position: 22
         # 按钮显示物品ID
-        ItemID: 'PAPER'
-        Model: 47
+        ItemID: 'DIAMOND'
+        Model: 0
         # 按钮显示名称
         Name: §e商城
         # 按钮显示Lore(每一行用%隔开)
@@ -69,22 +69,6 @@ GUI:
             # 指令内容(每一个指令用%隔开。变量说明:{player}代表按下这个按钮的玩家,{ignoreOP}为无视权限执行这个指令)
             Content: /say 钟表菜单%/say hahaha
       '2':
-        Position: 24
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'EMERALD'
-        Name: §6签到界面
-        Lore: §2点击打开签到界面%§3领取丰厚签到奖励
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            Content: /qd gui
-          OpenAnotherGUI:
-            Use: false
-            Number: 2
-      '3':
         Position: 0
         # 物品ID为 "主ID:附加值"
         ItemID: 'BEACON'
@@ -97,7 +81,7 @@ GUI:
           OpenAnotherGUI:
             Use: false
             Number: 2
-      '4':
+      '3':
         Position: 1
         # 物品ID为 "主ID:附加值"
         ItemID: 'LIME_BED'
@@ -110,7 +94,7 @@ GUI:
           OpenAnotherGUI:
             Use: false
             Number: 2
-      '5':
+      '4':
         Position: 2
         # 物品ID为 "主ID:附加值"
         ItemID: 'DIAMOND_PICKAXE'
@@ -123,7 +107,7 @@ GUI:
           OpenAnotherGUI:
             Use: false
             Number: 2
-      '6':
+      '5':
         Position: 9
         # 物品ID为 "主ID:附加值"
         ItemID: 'PLAYER_HEAD'
@@ -136,7 +120,7 @@ GUI:
           OpenAnotherGUI:
             Use: false
             Number: 2
-      '7':
+      '6':
         Position: 7
         # 物品ID为 "主ID:附加值"
         ItemID: 'PAPER'
@@ -150,7 +134,7 @@ GUI:
           OpenAnotherGUI:
             Use: false
             Number: 2
-      '8':
+      '7':
         Position: 3
         # 物品ID为 "主ID:附加值"
         ItemID: 'NETHERRACK'
@@ -163,7 +147,7 @@ GUI:
           OpenAnotherGUI:
             Use: false
             Number: 2
-      '9':
+      '8':
         Position: 4
         # 物品ID为 "主ID:附加值"
         ItemID: 'END_STONE'
@@ -176,20 +160,7 @@ GUI:
           OpenAnotherGUI:
             Use: false
             Number: 2
-      '10':
-        Position: 5
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'DARK_OAK_DOOR'
-        Name: §6传送至小区
-        Lore: §2点击传送至小区
-        Function:
-          Command:
-            Use: true
-            Content: /warp xq
-          OpenAnotherGUI:
-            Use: false
-            Number: 2
-      '11':
+      '9':
         Position: 6
         # 物品ID为 "主ID:附加值"
         ItemID: 'STICK'
@@ -200,183 +171,6 @@ GUI:
           Command:
             Use: true
             Content: /warp shop
-          OpenAnotherGUI:
-            Use: false
-            Number: 2
-      '12':
-        Position: 27
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'STICK'
-        Model: 70
-        Name: §6副本菜单
-        Lore: §2点击打开副本菜单
-        HideItem: true
-        Function:
-          Command:
-            Use: true
-            Content: /dm
-          OpenAnotherGUI:
-            Use: false
-            Number: 2
-      '13':
-        Position: 20
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'DIAMOND_SWORD'
-        Model: 16
-        Name: §6开启/关闭PVP
-        Lore: §2点击开启/关闭PVP
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /pvp
-          OpenAnotherGUI:
-            Use: false
-            Number: 2
-      '14':
-        Position: 29
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'PAPER'
-        Model: 44
-        Name: §6打开宠物助手
-        Lore: §2点击打开宠物助手
-        Function:
-          Command:
-            Use: false
-            Content: /cc
-          OpenAnotherGUI:
-            Use: true
-            Number: 2
-      '15':
-        Position: 22
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'WRITABLE_BOOK'
-        Name: §6打开服务器帮助
-        Lore: §2点击打开服务器帮助
-        Function:
-          Command:
-            Use: false
-            Content: /cc
-          OpenAnotherGUI:
-            Use: true
-            Number: 3
-      '16':
-        Position: 23
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'ANVIL'
-        Name: §6打开强化系统
-        HideItem: true
-        Lore: §2点击打开强化系统
-        Function:
-          Command:
-            Use: true
-            Content: /qh gui
-          OpenAnotherGUI:
-            Use: false
-            Number: 3
-      '17':
-        Position: 10
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'PLAYER_HEAD'
-        Name: §6传送至鱼贩
-        Lore: §2点击传送至鱼贩
-        Function:
-          Command:
-            Use: true
-            Content: /warp fish
-          OpenAnotherGUI:
-            Use: false
-            Number: 2
-      '22':
-        Position: 12
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'PLAYER_HEAD'
-        Name: §6传送至任务使者
-        Lore: §2点击传送至任务使者
-        Function:
-          Command:
-            Use: true
-            Content: /warp quest
-          OpenAnotherGUI:
-            Use: false
-            Number: 2
-      '23':
-        Position: 13
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'PLAYER_HEAD'
-        Name: §6传送至日常任务使者
-        Lore: §2点击传送至日常任务使者
-        Function:
-          Command:
-            Use: true
-            Content: /warp daily
-          OpenAnotherGUI:
-            Use: false
-            Number: 2
-      '18':
-        Position: 11
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'PLAYER_HEAD'
-        Name: §6传送至宠物助手
-        Lore: §2点击传送至宠物助手
-        Function:
-          Command:
-            Use: true
-            Content: /warp pet
-          OpenAnotherGUI:
-            Use: false
-            Number: 2
-      '19':
-        Position: 31
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'BOOK'
-        Name: §6打开任务列表
-        Lore: §2点击打开任务列表
-        Function:
-          Command:
-            Use: true
-            Content: /mq quest list
-          OpenAnotherGUI:
-            Use: false
-            Number: 2
-      '20':
-        Position: 28
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'PAPER'
-        Model: 33
-        Name: §6打开副本助手
-        Lore: §2点击打开副本助手
-        HideItem: true
-        Function:
-          Command:
-            Use: false
-            Content: /mq quest list
-          OpenAnotherGUI:
-            Use: true
-            Number: 4
-      '21':
-        Position: 33
-        # 物品ID为 "主ID:附加值"
-        ItemID: 'RED_BED'
-        Name: §6打开小区助手
-        Lore: §2点击打开小区助手
-        Function:
-          Command:
-            Use: false
-            Content: /mq quest list
-          OpenAnotherGUI:
-            Use: true
-            Number: 5
-      '24':
-        Position: 8
-        ItemID: 'ZOMBIE_HEAD'
-        Name: §6传送至刷怪场
-        Lore: §2点击传送至刷怪场
-        HideItem: false
-        Function:
-          Command:
-            Use: true
-            Content: /warp shuaguai
           OpenAnotherGUI:
             Use: false
             Number: 2
@@ -431,7 +225,7 @@ GUI:
           Command:
             Use: true
             Content: /paygui 钥匙礼包
-      '15':
+      '13':
         Position: 14
         ItemID: 'PAPER'
         Model: 34
@@ -446,36 +240,6 @@ GUI:
           Command:
             Use: true
             Content: /paygui 疯狂钥匙礼包
-      '13':
-        Position: 21
-        ItemID: 'STICK'
-        Model: 34
-        Name: §a购买一个§52§a倍经验卡(2小时)
-        Lore: §7购买一个§52§7倍经验卡%§5价格:2元%§6点击选择支付方式
-        HideItem: false
-        Enchantment:
-          ID: fortune
-          Level: 1
-        HideEnchant: true
-        Function:
-          Command:
-            Use: true
-            Content: /paygui 2倍经验卡
-      '14':
-        Position: 23
-        ItemID: 'STICK'
-        Model: 35
-        Name: §a购买一个§53§a倍经验卡(2小时)
-        Lore: §7购买一个§53§7倍经验卡%§5价格:3元%§6点击选择支付方式
-        HideItem: false
-        Enchantment:
-          ID: fortune
-          Level: 1
-        HideEnchant: true
-        Function:
-          Command:
-            Use: true
-            Content: /paygui 3倍经验卡
       '12':
         Position: 31
         ItemID: 'WRITTEN_BOOK'
@@ -594,411 +358,7 @@ GUI:
             Content: /crazycrate give Physical 疯狂 1 {player}
       '9':
         Position: 35
-        ItemID: 'PAPER'
-        Model: 12
-        Name: §a返回主页
-        Lore: §2点击返回主页
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          OpenAnotherGUI:
-            Use: true
-            Number: 0
-  '2':
-    Name: §e§l宠物助手
-    Item:
-      '1':
-        Position: 0
-        ItemID: 'LEAD'
-        Name: §6查看宠物信息
-        Lore: §3点击查看宠物信息
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /pinfo
-      '2':
-        Position: 1
-        ItemID: 'SKELETON_SKULL'
-        Name: §6召唤宠物
-        Lore: §3点击召唤宠物
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /pc
-      '3':
-        Position: 2
-        ItemID: 'EGG'
-        Name: §6收回宠物
-        Lore: §3点击收回宠物
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /psa
-      '4':
-        Position: 3
-        ItemID: 'DIAMOND_SWORD'
-        Name: §6查看宠物技能
-        Lore: §3点击查看宠物技能
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /petskill
-      '5':
-        Position: 15
-        ItemID: 'BARRIER'
-        Name: §c放生宠物
-        Lore: §5点击放生宠物
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /petrelease
-      '6':
-        Position: 17
-        ItemID: 'PAPER'
-        Model: 12
-        Name: §a返回主页
-        Lore: §2点击返回主页
-        BanInDungeon: true
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          OpenAnotherGUI:
-            Use: true
-            Number: 0
-      '7':
-        Position: 5
-        ItemID: 'DIAMOND_HORSE_ARMOR'
-        Name: §c切换宠物
-        Lore: §5点击切换宠物
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            Content: /psw
-      '8':
-        Position: 4
-        ItemID: 'TURTLE_EGG'
-        Name: §c打开宠物商店
-        Lore: §5点击打开宠物商店
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            Content: /petshop
-  '3':
-    Name: §e§l服务器帮助
-    Item:
-      '1':
-        Position: 0
-        ItemID: 'DIAMOND_HORSE_ARMOR'
-        Name: §6宠物手册
-        Lore: §3点击打开宠物手册
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            Content: /ob open 宠物手册
-      '2':
-        Position: 1
-        ItemID: 'ANVIL'
-        Name: §6强化系统手册
-        Lore: §3点击打开强化系统手册
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            Content: /ob open 强化系统手册
-      '3':
-        Position: 2
-        ItemID: 'FISHING_ROD'
-        Name: §6钓鱼指南
-        Lore: §3点击打开钓鱼指南
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            Content: /ob open 钓鱼指南
-      '4':
-        Position: 3
-        ItemID: 'WRITTEN_BOOK'
-        Model: 1
-        Name: §6历练等级手册
-        Lore: §3点击打开历练等级手册
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            Content: /ob open 历练等级手册
-      '5':
-        Position: 4
-        ItemID: 'WRITABLE_BOOK'
-        Name: §6任务手册
-        Lore: §3点击打开任务手册
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            Content: /ob open 任务手册
-      '6':
-        Position: 5
-        ItemID: 'ZOMBIE_HEAD'
-        Name: §6副本手册
-        Lore: §3点击打开副本手册
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            Content: /ob open 副本手册
-      '7':
-        Position: 8
-        ItemID: 'PAPER'
-        Model: 12
-        Name: §a返回主页
-        Lore: §2点击返回主页
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          OpenAnotherGUI:
-            Use: true
-            Number: 0
-            
-  '4':
-    Name: §e§l副本助手
-    Item:
-      '1':
-        Position: 0
-        ItemID: 'PAPER'
-        Model: 40
-        Name: §6离开副本
-        Lore: §3点击离开副本
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /dxl leave
-      '2':
-        Position: 4
-        ItemID: 'ZOMBIE_HEAD'
-        Name: §6副本手册
-        Lore: §3点击打开副本手册
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            Content: /ob open 副本手册
-      '3':
-        Position: 8
-        ItemID: 'PAPER'
-        Model: 12
-        Name: §a返回主页
-        Lore: §2点击返回主页
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          OpenAnotherGUI:
-            Use: true
-            Number: 0
-  '5':
-    Name: §e§l小区助手
-    Item:
-      '1':
-        Position: 0
-        ItemID: 'RED_BED'
-        Name: §6自动获取一个地皮
-        Lore: §3点击自动获取一个地皮
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /plot auto
-      '2':
-        Position: 1
-        ItemID: 'WHITE_BED'
-        Name: §6获取脚下的地皮
-        Lore: §3点击获取脚下的地皮
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /plot claim
-      '3':
-        Position: 4
-        ItemID: 'IRON_DOOR'
-        Name: §6回家(地皮)
-        Lore: §3点击回家
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /plot home
-      '4':
-        Position: 8
-        ItemID: 'PAPER'
-        Model: 13
-        Name: §4§l删除脚下的地皮(请慎重)
-        Lore: §c点击删除脚下的地皮
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /plot delete
-      '5':
-        Position: 9
-        ItemID: 'PAPER'
-        Model: 29
-        Name: §6信任一个玩家
-        Lore: §3点击获取指令
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /plot trust
-      '6':
-        Position: 10
-        ItemID: 'PAPER'
-        Model: 29
-        Name: §6添加一个玩家
-        Lore: §3点击获取指令
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /plot add
-      '7':
-        Position: 13
-        ItemID: 'PAPER'
-        Model: 40
-        Name: §6禁止一个玩家
-        Lore: §3点击获取指令
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /plot deny
-      '8':
-        Position: 14
-        ItemID: 'PAPER'
-        Model: 40
-        Name: §6移除一个玩家
-        Lore: §3点击获取指令
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /plot remove
-      '9':
-        Position: 22
-        ItemID: 'PAPER'
-        Model: 32
-        Name: §6查看帮助指令
-        Lore: §3点击查看帮助指令
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /plot help
-      '10':
-        Position: 17
-        ItemID: 'PAPER'
-        Model: 31
-        Name: §6查看拥有的地皮
-        Lore: §3点击查看拥有的地皮
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /plot list all
-      '11':
-        Position: 5
-        ItemID: 'BIRCH_SIGN'
-        Name: §6设置当前位置为小区的家
-        Lore: §3点击设置当前位置为小区的家
-        Cost:
-          Type: Money
-          Price: 0
-        Function:
-          Command:
-            Use: true
-            CloseGui: true
-            Content: /plot sethome
-      '12':
-        Position: 26
-        ItemID: 'PAPER'
+        ItemID: 'REDSTONE'
         Model: 12
         Name: §a返回主页
         Lore: §2点击返回主页
