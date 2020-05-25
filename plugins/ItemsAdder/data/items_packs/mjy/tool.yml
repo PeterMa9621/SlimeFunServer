@@ -1,0 +1,11 @@
+info:
+  namespace: mjy
+items:
+  grappling_hook:
+    display_name: grappling_hook
+    permission: itemsadder.player
+    resource:
+      material: LEAD
+      generate: true
+      textures:
+      - item/tool/grappling_hook.png

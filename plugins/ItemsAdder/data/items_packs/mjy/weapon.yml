@@ -1,0 +1,43 @@
+info:
+  namespace: mjy
+items:
+  grandmas_walking_stick:
+    display_name: grandmas_walking_stick
+    permission: itemsadder.player
+    resource:
+      material: STICK
+      generate: true
+      textures:
+      - item/weapon/grandmas_walking_stick.png
+  grandpas_walking_stick:
+    display_name: grandpas_walking_stick
+    permission: itemsadder.player
+    resource:
+      material: STICK
+      generate: true
+      textures:
+      - item/weapon/grandpas_walking_stick.png
+  sword_of_beheading:
+    display_name: sword_of_beheading
+    permission: itemsadder.player
+    resource:
+      material: IRON_SWORD
+      generate: true
+      textures:
+      - item/weapon/sword_of_beheading.png
+  blade_of_vampires:
+    display_name: blade_of_vampires
+    permission: itemsadder.player
+    resource:
+      material: GOLDEN_SWORD
+      generate: true
+      textures:
+      - item/weapon/blade_of_vampires.png
+  seismic_axe:
+    display_name: seismic_axe
+    permission: itemsadder.player
+    resource:
+      material: IRON_AXE
+      generate: true
+      textures:
+      - item/weapon/seismic_axe.png

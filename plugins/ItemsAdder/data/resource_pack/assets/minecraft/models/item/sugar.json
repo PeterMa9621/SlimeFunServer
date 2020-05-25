@@ -1,0 +1,44 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/sugar"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mjy:auto_generated/tin_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "mjy:auto_generated/silver_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "mjy:auto_generated/aluminum_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "mjy:auto_generated/zinc_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "mjy:auto_generated/magnesium_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "mjy:auto_generated/magnesium_salt"
+    }
+  ]
+}

@@ -10,9 +10,12 @@
 # Website: https://papermc.io/ 
 # Docs: https://paper.readthedocs.org/ 
 
+allow-perm-block-break-exploits: false
 verbose: false
 config-version: 20
 settings:
+  chunk-tasks-per-tick: 1000
+  console-has-all-permissions: false
   enable-player-collisions: true
   save-empty-scoreboard-teams: false
   load-permissions-yml-before-plugins: true
@@ -25,7 +28,7 @@ settings:
   bungee-online-mode: true
   async-chunks:
     enable: false
-    load-threads: -1
+    threads: -1
   book-size:
     page-max: 2560
     total-multiplier: 0.98
@@ -59,6 +62,8 @@ messages:
     authentication-servers-down: ''
 world-settings:
   default:
+    phantoms-do-not-spawn-on-creative-players: true
+    phantoms-only-attack-insomniacs: true
     light-queue-size: 20
     seed-based-feature-search: true
     portal-create-radius: 16
@@ -190,3 +195,5 @@ world-settings:
         max: 40
     squid-spawn-height:
       maximum: 0.0
+    viewdistances:
+      no-tick-view-distance: -1

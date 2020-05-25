@@ -1,0 +1,283 @@
+info:
+  namespace: mjy
+items:
+  nickel_ingot:
+    display_name: '&f锭'
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/nickel_ingot.png
+  cobalt_ingot:
+    display_name: '&f锭'
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/cobalt_ingot.png
+  ferrosilicon:
+    display_name: '&f锭'
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/ferrosilicon.png
+  iron_dust:
+    display_name: '&f锭'
+    permission: itemsadder.player
+    resource:
+      material: GUNPOWDER
+      generate: true
+      textures:
+      - item/mineral/iron_dust.png
+  gold_dust:
+    display_name: '&f锭'
+    permission: itemsadder.player
+    resource:
+      material: GLOWSTONE_DUST
+      generate: true
+      textures:
+      - item/mineral/gold_dust.png
+  copper_dust:
+    display_name: '&fcopper_dust'
+    permission: itemsadder.player
+    resource:
+      material: GLOWSTONE_DUST
+      generate: true
+      textures:
+      - item/mineral/copper_dust.png
+  tin_dust:
+    display_name: '&ftin_dust'
+    permission: itemsadder.player
+    resource:
+      material: SUGAR
+      generate: true
+      textures:
+      - item/mineral/tin_dust.png
+  lead_dust:
+    display_name: '&flead_dust'
+    permission: itemsadder.player
+    resource:
+      material: GUNPOWDER
+      generate: true
+      textures:
+      - item/mineral/lead_dust.png
+  silver_dust:
+    display_name: '&fsilver_dust'
+    permission: itemsadder.player
+    resource:
+      material: SUGAR
+      generate: true
+      textures:
+      - item/mineral/silver_dust.png
+  aluminum_dust:
+    display_name: '&faluminum_dust'
+    permission: itemsadder.player
+    resource:
+      material: SUGAR
+      generate: true
+      textures:
+      - item/mineral/aluminum_dust.png
+  zinc_dust:
+    display_name: zinc_dust
+    permission: itemsadder.player
+    resource:
+      material: SUGAR
+      generate: true
+      textures:
+      - item/mineral/zinc_dust.png
+  magnesium_dust:
+    display_name: magnesium_dust
+    permission: itemsadder.player
+    resource:
+      material: SUGAR
+      generate: true
+      textures:
+      - item/mineral/magnesium_dust.png
+  copper_ingot:
+    display_name: copper_ingot
+    permission: itemsadder.player
+    resource:
+      material: BRICK
+      generate: true
+      textures:
+      - item/mineral/copper_ingot.png
+  tin_ingot:
+    display_name: tin_ingot
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/tin_ingot.png
+  silver_ingot:
+    display_name: silver_ingot
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/silver_ingot.png
+  lead_ingot:
+    display_name: lead_ingot
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/lead_ingot.png
+  aluminum_ingot:
+    display_name: aluminum_ingot
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/aluminum_ingot.png
+  zinc_ingot:
+    display_name: zinc_ingot
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/zinc_ingot.png
+  magnesium_ingot:
+    display_name: magnesium_ingot
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/magnesium_ingot.png
+  sulfate:
+    display_name: sulfate
+    permission: itemsadder.player
+    resource:
+      material: GLOWSTONE_DUST
+      generate: true
+      textures:
+      - item/mineral/sulfate.png
+  silicon:
+    display_name: silicon
+    permission: itemsadder.player
+    resource:
+      material: GLOWSTONE_DUST
+      generate: true
+      textures:
+      - item/mineral/silicon.png
+  redstone_alloy:
+    display_name: redstone_alloy
+    permission: itemsadder.player
+    resource:
+      material: BRICK
+      generate: true
+      textures:
+      - item/mineral/redstone_alloy.png
+  magnesium_salt:
+    display_name: magnesium_salt
+    permission: itemsadder.player
+    resource:
+      material: SUGAR
+      generate: true
+      textures:
+      - item/mineral/magnesium_salt.png
+  reinforced_alloy_ingot:
+    display_name: reinforced_alloy_ingot
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/reinforced_alloy_ingot.png
+  hardened_metal_ingot:
+    display_name: hardened_metal_ingot
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/hardened_metal_ingot.png
+  damascus_steel_ingot:
+    display_name: damascus_steel_ingot
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/damascus_steel_ingot.png
+  steel_ingot:
+    display_name: steel_ingot
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/steel_ingot.png
+  bronze_ingot:
+    display_name: bronze_ingot
+    permission: itemsadder.player
+    resource:
+      material: BRICK
+      generate: true
+      textures:
+      - item/mineral/bronze_ingot.png
+  duralumin_ingot:
+    display_name: duralumin_ingot
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/duralumin_ingot.png
+  billon_ingot:
+    display_name: billon_ingot
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/billon_ingot.png
+  brass_ingot:
+    display_name: brass_ingot
+    permission: itemsadder.player
+    resource:
+      material: GOLD_INGOT
+      generate: true
+      textures:
+      - item/mineral/brass_ingot.png
+  aluminum_brass_ingot:
+    display_name: aluminum_brass_ingot
+    permission: itemsadder.player
+    resource:
+      material: GOLD_INGOT
+      generate: true
+      textures:
+      - item/mineral/aluminum_brass_ingot.png
+  aluminum_bronze_ingot:
+    display_name: aluminum_bronze_ingot
+    permission: itemsadder.player
+    resource:
+      material: GOLD_INGOT
+      generate: true
+      textures:
+      - item/mineral/aluminum_bronze_ingot.png
+  corinthian_bronze_ingot:
+    display_name: corinthian_bronze_ingot
+    permission: itemsadder.player
+    resource:
+      material: GOLD_INGOT
+      generate: true
+      textures:
+      - item/mineral/corinthian_bronze_ingot.png
+  solder_ingot:
+    display_name: solder_ingot
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/mineral/solder_ingot.png

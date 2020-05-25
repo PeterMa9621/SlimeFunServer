@@ -1842,7 +1842,7 @@ ARMORED_JETBOOTS:
   allow-enchanting: true
   allow-disenchanting: true
 SEISMIC_AXE:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true

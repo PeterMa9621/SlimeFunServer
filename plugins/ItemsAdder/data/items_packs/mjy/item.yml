@@ -1,0 +1,51 @@
+info:
+  namespace: mjy
+items:
+  gold_pan:
+    display_name: gold_pan
+    permission: itemsadder.player
+    resource:
+      material: BOWL
+      generate: true
+      textures:
+      - item/item/gold_pan.png
+  nether_gold_pan:
+    display_name: nether_gold_pan
+    permission: itemsadder.player
+    resource:
+      material: BOWL
+      generate: true
+      textures:
+      - item/item/nether_gold_pan.png
+  rag:
+    display_name: rag
+    permission: itemsadder.player
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/item/rag.png
+  bandage:
+    display_name: bandage
+    permission: itemsadder.player
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/item/bandage.png
+  splint:
+    display_name: splint
+    permission: itemsadder.player
+    resource:
+      material: STICK
+      generate: true
+      textures:
+      - item/item/splint.png
+  medicine:
+    display_name: medicine
+    permission: itemsadder.player
+    resource:
+      material: POTION
+      generate: true
+      textures:
+      - item/item/medicine.png
