@@ -39,6 +39,12 @@
         "custom_model_data": 6
       },
       "model": "itemsadder:auto_generated/bronze_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "mjy:auto_generated/lumber_axe"
     }
   ]
 }

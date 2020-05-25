@@ -39,6 +39,42 @@
         "custom_model_data": 6
       },
       "model": "mjy:auto_generated/sword_of_beheading"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "mjy:auto_generated/copper_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "mjy:auto_generated/tin_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "mjy:auto_generated/silver_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "mjy:auto_generated/aluminum_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "mjy:auto_generated/zinc_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "mjy:auto_generated/magnesium_sword"
     }
   ]
 }

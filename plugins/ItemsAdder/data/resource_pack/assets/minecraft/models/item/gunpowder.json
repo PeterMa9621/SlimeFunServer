@@ -15,6 +15,30 @@
         "custom_model_data": 2
       },
       "model": "mjy:auto_generated/lead_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "mjy:auto_generated/sifted_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "mjy:auto_generated/crushed_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "mjy:auto_generated/pulverized_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "mjy:auto_generated/pure_ore_cluster"
     }
   ]
 }

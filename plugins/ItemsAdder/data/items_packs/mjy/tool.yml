@@ -9,3 +9,131 @@ items:
       generate: true
       textures:
       - item/tool/grappling_hook.png
+  smelters_pickaxe:
+    display_name: smelters_pickaxe
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: true
+      textures:
+      - item/tool/smelters_pickaxe.png
+  lumber_axe:
+    display_name: lumber_axe
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_AXE
+      generate: true
+      textures:
+      - item/tool/lumber_axe.png
+  pickaxe_of_containment:
+    display_name: pickaxe_of_containment
+    permission: itemsadder.player
+    resource:
+      material: IRON_PICKAXE
+      generate: true
+      textures:
+      - item/tool/pickaxe_of_containment.png
+  hercules_pickaxe:
+    display_name: hercules_pickaxe
+    permission: itemsadder.player
+    resource:
+      material: IRON_PICKAXE
+      generate: true
+      textures:
+      - item/tool/hercules_pickaxe.png
+  pickaxe_of_the_seeker:
+    display_name: pickaxe_of_the_seeker
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: true
+      textures:
+      - item/tool/pickaxe_of_the_seeker.png
+  cobalt_pickaxe:
+    display_name: cobalt_pickaxe
+    permission: itemsadder.player
+    resource:
+      material: IRON_PICKAXE
+      generate: true
+      textures:
+      - item/tool/cobalt_pickaxe.png
+  pickaxe_of_vein_mining:
+    display_name: pickaxe_of_vein_mining
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: true
+      textures:
+      - item/tool/pickaxe_of_vein_mining.png
+  crook:
+    display_name: crook
+    permission: itemsadder.player
+    resource:
+      material: WOODEN_HOE
+      generate: true
+      textures:
+      - item/tool/crook.png
+  hammer:
+    display_name: hammer
+    permission: itemsadder.player
+    resource:
+      material: IRON_PICKAXE
+      generate: true
+      textures:
+      - item/tool/hammer.png
+  duralumin_multi_tool:
+    display_name: duralumin_multi_tool
+    permission: itemsadder.player
+    resource:
+      material: SHEARS
+      generate: true
+      textures:
+      - item/tool/duralumin_multi_tool.png
+  solder_multi_tool:
+    display_name: solder_multi_tool
+    permission: itemsadder.player
+    resource:
+      material: SHEARS
+      generate: true
+      textures:
+      - item/tool/solder_multi_tool.png
+  billon_multi_tool:
+    display_name: billon_multi_tool
+    permission: itemsadder.player
+    resource:
+      material: SHEARS
+      generate: true
+      textures:
+      - item/tool/billon_multi_tool.png
+  steel_multi_tool:
+    display_name: steel_multi_tool
+    permission: itemsadder.player
+    resource:
+      material: SHEARS
+      generate: true
+      textures:
+      - item/tool/steel_multi_tool.png
+  damascus_steel_multi_tool:
+    display_name: damascus_steel_multi_tool
+    permission: itemsadder.player
+    resource:
+      material: SHEARS
+      generate: true
+      textures:
+      - item/tool/damascus_steel_multi_tool.png
+  reinforced_alloy_multi_tool:
+    display_name: reinforced_alloy_multi_tool
+    permission: itemsadder.player
+    resource:
+      material: SHEARS
+      generate: true
+      textures:
+      - item/tool/reinforced_alloy_multi_tool.png
+  carbonado_multi_tool:
+    display_name: carbonado_multi_tool
+    permission: itemsadder.player
+    resource:
+      material: SHEARS
+      generate: true
+      textures:
+      - item/tool/carbonado_multi_tool.png

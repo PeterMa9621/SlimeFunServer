@@ -207,6 +207,36 @@
         "custom_model_data": 38
       },
       "model": "mjy:auto_generated/bandage"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "mjy:auto_generated/rocket_steel_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "mjy:auto_generated/plastic_sheet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "mjy:auto_generated/steel_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "mjy:auto_generated/cloth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "mjy:auto_generated/reinforced_plate"
     }
   ]
 }

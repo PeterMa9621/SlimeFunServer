@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/firework_star"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mjy:auto_generated/rocket_control_core"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "mjy:auto_generated/silicon"
+    }
+  ]
+}

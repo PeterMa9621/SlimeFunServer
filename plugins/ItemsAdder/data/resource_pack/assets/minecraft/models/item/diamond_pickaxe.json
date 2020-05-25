@@ -63,6 +63,24 @@
         "custom_model_data": 10
       },
       "model": "itemsadder:auto_generated/demoniac_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "mjy:auto_generated/smelters_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "mjy:auto_generated/pickaxe_of_the_seeker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "mjy:auto_generated/pickaxe_of_vein_mining"
     }
   ]
 }

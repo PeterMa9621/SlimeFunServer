@@ -22,6 +22,20 @@ DIAMOND_SWORD:
   itemsadder:mysterious_sword: 21
   itemsadder:end_sword: 22
   itemsadder:bronze_sword: 23
+  mjy:steel_sword: 24
+  mjy:bronze_sword: 25
+  mjy:duralumin_sword: 26
+  mjy:billon_sword: 27
+  mjy:brass_sword: 28
+  mjy:aluminum_brass_sword: 29
+  mjy:aluminum_bronze_sword: 30
+  mjy:corinthian_bronze_sword: 31
+  mjy:solder_sword: 32
+  mjy:damascus_steel_sword: 33
+  mjy:hardened_sword: 34
+  mjy:ferrosilicon_sword: 35
+  mjy:nickel_sword: 36
+  mjy:cobalt_sword: 37
 LEATHER_HELMET:
   itemsadder:ruby_head: 1
   itemsadder:spinel_head: 2
@@ -269,6 +283,7 @@ GOLDEN_SWORD:
   itemsadder:ak47: 3
   itemsadder:ruby_dagger: 4
   mjy:blade_of_vampires: 5
+  mjy:gilded_iron_sword: 6
 CROSSBOW:
   itemsadder:shotgun: 1
   itemsadder:firework_launcher: 2
@@ -421,6 +436,7 @@ IRON_INGOT:
   mjy:billon_ingot: 40
   mjy:solder_ingot: 41
   itemsadder:iron_plate: 42
+  mjy:rocket_engine_shell: 43
 SHIELD:
   itemsadder:ender_shield: 1
   itemsadder:obsidian_shield: 2
@@ -446,8 +462,15 @@ IRON_SWORD:
   itemsadder:apple_jam_jar: 4
   itemsadder:healing_crystals: 5
   mjy:sword_of_beheading: 6
+  mjy:copper_sword: 7
+  mjy:tin_sword: 8
+  mjy:silver_sword: 9
+  mjy:aluminum_sword: 10
+  mjy:zinc_sword: 11
+  mjy:magnesium_sword: 12
 SNOWBALL:
   itemsadder:grenade: 1
+  mjy:heavy_cream: 2
 ENDER_PEARL:
   itemsadder:mysterious_amulet: 1
 ENDER_EYE:
@@ -459,6 +482,7 @@ DIAMOND_AXE:
   itemsadder:aqua_aura_axe: 4
   itemsadder:amethyst_axe: 5
   itemsadder:bronze_axe: 6
+  mjy:lumber_axe: 7
 WOODEN_AXE:
   itemsadder:crystal_axe: 1
 DIAMOND_PICKAXE:
@@ -472,6 +496,9 @@ DIAMOND_PICKAXE:
   itemsadder:amethyst_pickaxe: 8
   itemsadder:bronze_pickaxe: 9
   itemsadder:demoniac_hammer: 10
+  mjy:smelters_pickaxe: 11
+  mjy:pickaxe_of_the_seeker: 12
+  mjy:pickaxe_of_vein_mining: 13
 WOODEN_PICKAXE:
   itemsadder:crystal_pickaxe: 1
 DIAMOND_HOE:
@@ -483,6 +510,7 @@ DIAMOND_HOE:
   itemsadder:bronze_hoe: 6
 WOODEN_HOE:
   itemsadder:crystal_hoe: 1
+  mjy:crook: 2
 DIAMOND_SHOVEL:
   itemsadder:ruby_shovel: 1
   itemsadder:spinel_shovel: 2
@@ -499,6 +527,13 @@ SHEARS:
   itemsadder:blue_shears: 4
   itemsadder:purple_shears: 5
   itemsadder:cyan_shears: 6
+  mjy:duralumin_multi_tool: 7
+  mjy:solder_multi_tool: 8
+  mjy:billon_multi_tool: 9
+  mjy:steel_multi_tool: 10
+  mjy:damascus_steel_multi_tool: 11
+  mjy:reinforced_alloy_multi_tool: 12
+  mjy:carbonado_multi_tool: 13
 TOTEM_OF_UNDYING:
   itemsadder:arcane_ring: 1
 APPLE:
@@ -574,6 +609,11 @@ PAPER:
   itemsadder:plastic_plate: 36
   mjy:rag: 37
   mjy:bandage: 38
+  mjy:rocket_steel_plate: 39
+  mjy:plastic_sheet: 40
+  mjy:steel_plate: 41
+  mjy:cloth: 42
+  mjy:reinforced_plate: 43
 WATER_BUCKET:
   realcraft:boiled_water_bucket: 1
 GLOWSTONE_DUST:
@@ -587,6 +627,10 @@ GLOWSTONE_DUST:
 GUNPOWDER:
   mjy:iron_dust: 1
   mjy:lead_dust: 2
+  mjy:sifted_ore: 3
+  mjy:crushed_ore: 4
+  mjy:pulverized_ore: 5
+  mjy:pure_ore_cluster: 6
 SUGAR:
   mjy:tin_dust: 1
   mjy:silver_dust: 2
@@ -594,6 +638,9 @@ SUGAR:
   mjy:zinc_dust: 4
   mjy:magnesium_dust: 5
   mjy:magnesium_salt: 6
+  mjy:wheat_flour: 7
+  mjy:salt: 8
+  mjy:cornmeal: 9
 BRICK:
   mjy:copper_ingot: 1
   mjy:redstone_alloy: 2
@@ -603,6 +650,10 @@ GOLD_INGOT:
   mjy:aluminum_brass_ingot: 2
   mjy:aluminum_bronze_ingot: 3
   mjy:corinthian_bronze_ingot: 4
+  mjy:gilded_iron: 5
+  mjy:blistering_core: 6
+  mjy:blistering_ingot: 7
+  mjy:gold_ingot: 8
 IRON_AXE:
   mjy:seismic_axe: 1
 BOWL:
@@ -610,3 +661,28 @@ BOWL:
   mjy:nether_gold_pan: 2
 LEAD:
   mjy:grappling_hook: 1
+IRON_PICKAXE:
+  mjy:pickaxe_of_containment: 1
+  mjy:hercules_pickaxe: 2
+  mjy:cobalt_pickaxe: 3
+  mjy:hammer: 4
+EMERALD:
+  mjy:talisman1: 1
+  mjy:talisman2: 2
+COAL:
+  mjy:blind_core: 1
+SPIDER_EYE:
+  mjy:poison_core: 1
+NETHER_STAR:
+  mjy:electric_motor_8: 1
+  mjy:rocket_cpu: 2
+FIREWORK_STAR:
+  mjy:rocket_control_core: 1
+  mjy:silicon: 2
+BONE:
+  mjy:tube: 1
+STRING:
+  mjy:copper_wire: 1
+  mjy:chain: 2
+FLINT:
+  mjy:hook: 1

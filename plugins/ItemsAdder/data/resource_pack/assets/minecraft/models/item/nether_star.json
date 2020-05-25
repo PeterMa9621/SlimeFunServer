@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/nether_star"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "mjy:auto_generated/electric_motor_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "mjy:auto_generated/rocket_cpu"
+    }
+  ]
+}

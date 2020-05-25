@@ -41,3 +41,171 @@ items:
       generate: true
       textures:
       - item/weapon/seismic_axe.png
+  copper_sword:
+    display_name: copper_sword
+    permission: itemsadder.player
+    resource:
+      material: IRON_SWORD
+      generate: true
+      textures:
+      - item/weapon/copper_sword.png
+  tin_sword:
+    display_name: tin_sword
+    permission: itemsadder.player
+    resource:
+      material: IRON_SWORD
+      generate: true
+      textures:
+      - item/weapon/tin_sword.png
+  silver_sword:
+    display_name: silver_sword
+    permission: itemsadder.player
+    resource:
+      material: IRON_SWORD
+      generate: true
+      textures:
+      - item/weapon/silver_sword.png
+  aluminum_sword:
+    display_name: aluminum_sword
+    permission: itemsadder.player
+    resource:
+      material: IRON_SWORD
+      generate: true
+      textures:
+      - item/weapon/aluminum_sword.png
+  zinc_sword:
+    display_name: zinc_sword
+    permission: itemsadder.player
+    resource:
+      material: IRON_SWORD
+      generate: true
+      textures:
+      - item/weapon/zinc_sword.png
+  magnesium_sword:
+    display_name: magnesium_sword
+    permission: itemsadder.player
+    resource:
+      material: IRON_SWORD
+      generate: true
+      textures:
+      - item/weapon/magnesium_sword.png
+  steel_sword:
+    display_name: steel_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/steel_sword.png
+  bronze_sword:
+    display_name: bronze_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/bronze_sword.png
+  duralumin_sword:
+    display_name: duralumin_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/duralumin_sword.png
+  billon_sword:
+    display_name: billon_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/billon_sword.png
+  brass_sword:
+    display_name: brass_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/brass_sword.png
+  aluminum_brass_sword:
+    display_name: aluminum_brass_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/aluminum_brass_sword.png
+  aluminum_bronze_sword:
+    display_name: aluminum_bronze_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/aluminum_bronze_sword.png
+  corinthian_bronze_sword:
+    display_name: corinthian_bronze_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/corinthian_bronze_sword.png
+  solder_sword:
+    display_name: solder_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/solder_sword.png
+  damascus_steel_sword:
+    display_name: damascus_steel_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/damascus_steel_sword.png
+  hardened_sword:
+    display_name: hardened_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/hardened_sword.png
+  ferrosilicon_sword:
+    display_name: ferrosilicon_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/ferrosilicon_sword.png
+  gilded_iron_sword:
+    display_name: gilded_iron_sword
+    permission: itemsadder.player
+    resource:
+      material: GOLDEN_SWORD
+      generate: true
+      textures:
+      - item/weapon/gilded_iron_sword.png
+  nickel_sword:
+    display_name: nickel_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/nickel_sword.png
+  cobalt_sword:
+    display_name: cobalt_sword
+    permission: itemsadder.player
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/weapon/cobalt_sword.png

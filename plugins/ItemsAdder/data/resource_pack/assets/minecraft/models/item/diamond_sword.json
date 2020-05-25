@@ -141,6 +141,90 @@
         "custom_model_data": 23
       },
       "model": "itemsadder:auto_generated/bronze_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "mjy:auto_generated/steel_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "mjy:auto_generated/bronze_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "mjy:auto_generated/duralumin_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "mjy:auto_generated/billon_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "mjy:auto_generated/brass_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "mjy:auto_generated/aluminum_brass_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "mjy:auto_generated/aluminum_bronze_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "mjy:auto_generated/corinthian_bronze_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "mjy:auto_generated/solder_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "mjy:auto_generated/damascus_steel_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "mjy:auto_generated/hardened_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "mjy:auto_generated/ferrosilicon_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "mjy:auto_generated/nickel_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "mjy:auto_generated/cobalt_sword"
     }
   ]
 }

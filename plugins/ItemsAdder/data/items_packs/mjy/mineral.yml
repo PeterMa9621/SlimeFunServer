@@ -165,7 +165,7 @@ items:
     display_name: silicon
     permission: itemsadder.player
     resource:
-      material: GLOWSTONE_DUST
+      material: FIREWORK_STAR
       generate: true
       textures:
       - item/mineral/silicon.png
@@ -281,3 +281,59 @@ items:
       generate: true
       textures:
       - item/mineral/solder_ingot.png
+  gilded_iron:
+    display_name: gilded_iron
+    permission: itemsadder.player
+    resource:
+      material: GOLD_INGOT
+      generate: true
+      textures:
+      - item/mineral/gilded_iron.png
+  sifted_ore:
+    display_name: sifted_ore
+    permission: itemsadder.player
+    resource:
+      material: GUNPOWDER
+      generate: true
+      textures:
+      - item/mineral/sifted_ore.png
+  crushed_ore:
+    display_name: crushed_ore
+    permission: itemsadder.player
+    resource:
+      material: GUNPOWDER
+      generate: true
+      textures:
+      - item/mineral/crushed_ore.png
+  pulverized_ore:
+    display_name: pulverized_ore
+    permission: itemsadder.player
+    resource:
+      material: GUNPOWDER
+      generate: true
+      textures:
+      - item/mineral/pulverized_ore.png
+  pure_ore_cluster:
+    display_name: pure_ore_cluster
+    permission: itemsadder.player
+    resource:
+      material: GUNPOWDER
+      generate: true
+      textures:
+      - item/mineral/pure_ore_cluster.png
+  blistering_ingot:
+    display_name: blistering_ingot
+    permission: itemsadder.player
+    resource:
+      material: GOLD_INGOT
+      generate: true
+      textures:
+      - item/mineral/blistering_ingot.png
+  gold_ingot:
+    display_name: gold_ingot
+    permission: itemsadder.player
+    resource:
+      material: GOLD_INGOT
+      generate: true
+      textures:
+      - item/mineral/gold_ingot.png

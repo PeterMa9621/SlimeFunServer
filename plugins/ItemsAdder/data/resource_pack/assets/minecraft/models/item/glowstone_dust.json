@@ -21,12 +21,6 @@
         "custom_model_data": 6
       },
       "model": "mjy:auto_generated/sulfate"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 7
-      },
-      "model": "mjy:auto_generated/silicon"
     }
   ]
 }

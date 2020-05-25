@@ -49,3 +49,179 @@ items:
       generate: true
       textures:
       - item/item/medicine.png
+  talisman1:
+    display_name: talisman1
+    permission: itemsadder.player
+    resource:
+      material: EMERALD
+      generate: true
+      textures:
+      - item/item/talisman1.png
+  talisman2:
+    display_name: talisman2
+    permission: itemsadder.player
+    resource:
+      material: EMERALD
+      generate: true
+      textures:
+      - item/item/talisman2.png
+  blind_core:
+    display_name: blind_core
+    permission: itemsadder.player
+    resource:
+      material: COAL
+      generate: true
+      textures:
+      - item/item/blind_core.png
+  poison_core:
+    display_name: poison_core
+    permission: itemsadder.player
+    resource:
+      material: SPIDER_EYE
+      generate: true
+      textures:
+      - item/item/poison_core.png
+  blistering_core:
+    display_name: blistering_core
+    permission: itemsadder.player
+    resource:
+      material: GOLD_INGOT
+      generate: true
+      textures:
+      - item/item/blistering_core.png
+  electric_motor_8:
+    display_name: electric_motor_8
+    permission: itemsadder.player
+    resource:
+      material: NETHER_STAR
+      generate: true
+      textures:
+      - item/item/electric_motor_8.png
+  rocket_engine_shell:
+    display_name: rocket_engine_shell
+    permission: itemsadder.player
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+      - item/item/rocket_engine_shell.png
+  rocket_steel_plate:
+    display_name: rocket_steel_plate
+    permission: itemsadder.player
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/item/rocket_steel_plate.png
+  rocket_cpu:
+    display_name: rocket_cpu
+    permission: itemsadder.player
+    resource:
+      material: NETHER_STAR
+      generate: true
+      textures:
+      - item/item/rocket_cpu.png
+  rocket_control_core:
+    display_name: rocket_control_core
+    permission: itemsadder.player
+    resource:
+      material: FIREWORK_STAR
+      generate: true
+      textures:
+      - item/item/rocket_control_core.png
+  tube:
+    display_name: tube
+    permission: itemsadder.player
+    resource:
+      material: BONE
+      generate: true
+      textures:
+      - item/item/tube.png
+  copper_wire:
+    display_name: copper_wire
+    permission: itemsadder.player
+    resource:
+      material: STRING
+      generate: true
+      textures:
+      - item/item/copper_wire.png
+  plastic_sheet:
+    display_name: plastic_sheet
+    permission: itemsadder.player
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/item/plastic_sheet.png
+  wheat_flour:
+    display_name: wheat_flour
+    permission: itemsadder.player
+    resource:
+      material: SUGAR
+      generate: true
+      textures:
+      - item/item/wheat_flour.png
+  steel_plate:
+    display_name: steel_plate
+    permission: itemsadder.player
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/item/steel_plate.png
+  chain:
+    display_name: chain
+    permission: itemsadder.player
+    resource:
+      material: STRING
+      generate: true
+      textures:
+      - item/item/chain.png
+  hook:
+    display_name: hook
+    permission: itemsadder.player
+    resource:
+      material: FLINT
+      generate: true
+      textures:
+      - item/item/hook.png
+  salt:
+    display_name: salt
+    permission: itemsadder.player
+    resource:
+      material: SUGAR
+      generate: true
+      textures:
+      - item/item/salt.png
+  heavy_cream:
+    display_name: heavy_cream
+    permission: itemsadder.player
+    resource:
+      material: SNOWBALL
+      generate: true
+      textures:
+      - item/item/heavy_cream.png
+  cloth:
+    display_name: cloth
+    permission: itemsadder.player
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/item/cloth.png
+  reinforced_plate:
+    display_name: reinforced_plate
+    permission: itemsadder.player
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/item/reinforced_plate.png
+  cornmeal:
+    display_name: cornmeal
+    permission: itemsadder.player
+    resource:
+      material: SUGAR
+      generate: true
+      textures:
+      - item/item/cornmeal.png

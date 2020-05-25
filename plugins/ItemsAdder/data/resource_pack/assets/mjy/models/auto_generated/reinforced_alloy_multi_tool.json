@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mjy:item/tool/reinforced_alloy_multi_tool"
+  }
+}

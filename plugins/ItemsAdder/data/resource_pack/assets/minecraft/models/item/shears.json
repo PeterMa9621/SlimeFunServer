@@ -39,6 +39,48 @@
         "custom_model_data": 6
       },
       "model": "itemsadder:auto_generated/cyan_shears"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "mjy:auto_generated/duralumin_multi_tool"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "mjy:auto_generated/solder_multi_tool"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "mjy:auto_generated/billon_multi_tool"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "mjy:auto_generated/steel_multi_tool"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "mjy:auto_generated/damascus_steel_multi_tool"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "mjy:auto_generated/reinforced_alloy_multi_tool"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "mjy:auto_generated/carbonado_multi_tool"
     }
   ]
 }

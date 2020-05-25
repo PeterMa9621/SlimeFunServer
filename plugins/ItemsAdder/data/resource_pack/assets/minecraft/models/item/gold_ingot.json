@@ -27,6 +27,30 @@
         "custom_model_data": 4
       },
       "model": "mjy:auto_generated/corinthian_bronze_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "mjy:auto_generated/gilded_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "mjy:auto_generated/blistering_core"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "mjy:auto_generated/blistering_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "mjy:auto_generated/gold_ingot"
     }
   ]
 }
