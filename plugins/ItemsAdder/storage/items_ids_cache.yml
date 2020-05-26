@@ -393,6 +393,13 @@ STICK:
   mjy:grandmas_walking_stick: 65
   mjy:grandpas_walking_stick: 66
   mjy:splint: 67
+  mjy:quest: 68
+  mjy:quest_quit: 69
+  mjy:quest_finish: 70
+  mjy:quest_question: 71
+  mjy:qq: 72
+  mjy:wechat: 73
+  mjy:alipay: 74
 IRON_INGOT:
   itemsadder:ruby: 1
   itemsadder:crystal: 2
@@ -614,6 +621,22 @@ PAPER:
   mjy:steel_plate: 41
   mjy:cloth: 42
   mjy:reinforced_plate: 43
+  mjy:flag: 44
+  mjy:key1: 45
+  mjy:key2: 46
+  mjy:key3: 47
+  mjy:key4: 48
+  mjy:key5: 49
+  mjy:key6: 50
+  mjy:palm: 51
+  mjy:treasure_chest: 52
+  mjy:chest: 53
+  mjy:chest2: 54
+  mjy:open_chest: 55
+  mjy:unicorn: 56
+  mjy:vip1: 57
+  mjy:vip2: 58
+  mjy:vip3: 59
 WATER_BUCKET:
   realcraft:boiled_water_bucket: 1
 GLOWSTONE_DUST:
@@ -666,6 +689,8 @@ IRON_PICKAXE:
   mjy:hercules_pickaxe: 2
   mjy:cobalt_pickaxe: 3
   mjy:hammer: 4
+  mjy:reinforced_alloy_pickaxe: 5
+  mjy:clay_alloy_pickaxe: 6
 EMERALD:
   mjy:talisman1: 1
   mjy:talisman2: 2
@@ -686,3 +711,5 @@ STRING:
   mjy:chain: 2
 FLINT:
   mjy:hook: 1
+GOLDEN_HOE:
+  mjy:tnt_explosion_creater: 1

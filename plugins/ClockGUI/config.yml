@@ -29,8 +29,8 @@ GUI:
         # 按钮位置(0号为左上角第一个)
         Position: 22
         # 按钮显示物品ID
-        ItemID: 'DIAMOND'
-        Model: 0
+        ItemID: 'PAPER'
+        Model: 58
         # 按钮显示名称
         Name: §e商城
         # 按钮显示Lore(每一行用%隔开)
@@ -110,8 +110,8 @@ GUI:
       '5':
         Position: 7
         # 物品ID为 "主ID:附加值"
-        ItemID: 'NETHER_STAR'
-        Model: 0
+        ItemID: 'STICK'
+        Model: 31
         Name: §6传送至抽奖屋
         Lore: §2点击传送至抽奖屋
         Function:
@@ -150,7 +150,7 @@ GUI:
       '8':
         Position: 6
         # 物品ID为 "主ID:附加值"
-        ItemID: 'EMERALD'
+        ItemID: 'STICK'
         Model: 29
         Name: §6传送至主城商店
         Lore: §2点击传送至主城商店
@@ -167,7 +167,7 @@ GUI:
       '1':
         Position: 2
         ItemID: 'PAPER'
-        Model: 46
+        Model: 57
         Name: §a购买Vip1(31天)
         Lore: §3特权请查看Vip手册%§5价格:15元%§6点击选择支付方式
         HideEnchant: true
@@ -178,7 +178,7 @@ GUI:
       '2':
         Position: 4
         ItemID: 'PAPER'
-        Model: 47
+        Model: 58
         Name: §a购买Vip2(31天)
         Lore: §3特权请查看Vip手册%§5价格:25元%§6点击选择支付方式
         HideEnchant: true
@@ -189,7 +189,7 @@ GUI:
       '3':
         Position: 6
         ItemID: 'PAPER'
-        Model: 48
+        Model: 59
         Name: §a购买Vip3(31天)
         Lore: §3特权请查看Vip手册%§5价格:50元%§6点击选择支付方式
         HideEnchant: true
@@ -200,10 +200,10 @@ GUI:
       '11':
         Position: 12
         ItemID: 'PAPER'
-        Model: 34
+        Model: 45
         Name: §a购买一个钥匙礼包
         Lore: §7内含6把钥匙%§76种抽奖钥匙各一把%§5价格:12元%§6点击选择支付方式
-        HideItem: false
+        HideItem: true
         Enchantment:
           ID: fortune
           Level: 1
@@ -215,10 +215,10 @@ GUI:
       '13':
         Position: 14
         ItemID: 'PAPER'
-        Model: 34
+        Model: 45
         Name: §a购买一个疯狂钥匙礼包
         Lore: §7内含4把疯狂抽奖钥匙%§5价格:20元%§6点击选择支付方式
-        HideItem: false
+        HideItem: true
         Enchantment:
           ID: fortune
           Level: 1
@@ -345,7 +345,7 @@ GUI:
             Content: /crazycrate give Physical 疯狂 1 {player}
       '9':
         Position: 35
-        ItemID: 'REDSTONE'
+        ItemID: 'PAPER'
         Model: 12
         Name: §a返回主页
         Lore: §2点击返回主页

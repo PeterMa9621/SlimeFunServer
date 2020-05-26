@@ -27,6 +27,18 @@
         "custom_model_data": 4
       },
       "model": "mjy:auto_generated/hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "mjy:auto_generated/reinforced_alloy_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "mjy:auto_generated/clay_alloy_pickaxe"
     }
   ]
 }

@@ -137,3 +137,27 @@ items:
       generate: true
       textures:
       - item/tool/carbonado_multi_tool.png
+  tnt_explosion_creater:
+    display_name: tnt_explosion_creater
+    permission: itemsadder.player
+    resource:
+      material: GOLDEN_HOE
+      generate: true
+      textures:
+      - item/tool/tnt_explosion_creater.png
+  reinforced_alloy_pickaxe:
+    display_name: reinforced_alloy_pickaxe
+    permission: itemsadder.player
+    resource:
+      material: IRON_PICKAXE
+      generate: true
+      textures:
+      - item/tool/reinforced_alloy_pickaxe.png
+  clay_alloy_pickaxe:
+    display_name: clay_alloy_pickaxe
+    permission: itemsadder.player
+    resource:
+      material: IRON_PICKAXE
+      generate: true
+      textures:
+      - item/tool/clay_alloy_pickaxe.png

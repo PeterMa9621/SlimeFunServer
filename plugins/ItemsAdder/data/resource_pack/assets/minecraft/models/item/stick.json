@@ -405,6 +405,48 @@
         "custom_model_data": 67
       },
       "model": "mjy:auto_generated/splint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "mjy:auto_generated/quest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "mjy:auto_generated/quest_quit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70
+      },
+      "model": "mjy:auto_generated/quest_finish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71
+      },
+      "model": "mjy:auto_generated/quest_question"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "mjy:auto_generated/qq"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73
+      },
+      "model": "mjy:auto_generated/wechat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74
+      },
+      "model": "mjy:auto_generated/alipay"
     }
   ]
 }
