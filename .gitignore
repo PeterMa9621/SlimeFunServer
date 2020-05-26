@@ -126,3 +126,9 @@ data-storage/CS-CoreLib/PlayerStats/
 data-storage/Slimefun/stored-inventories/
 
 data-storage/Slimefun/universal-inventories/
+
+plugins/QuickShop/shops.db
+
+plugins/QuickShop/qs.log
+
+plugins/QuickShop/cache/
