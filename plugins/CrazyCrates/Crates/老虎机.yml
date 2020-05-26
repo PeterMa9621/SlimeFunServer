@@ -17,7 +17,7 @@ Crate:
     Lore:
       - '&7一把开启抽奖箱的钥匙'
       - '&7用它打开&e&l老虎机抽奖箱'
-    Item: 'PAPER#37'
+    Item: 'PAPER#48'
     Glowing: false
   Prizes:
     1:

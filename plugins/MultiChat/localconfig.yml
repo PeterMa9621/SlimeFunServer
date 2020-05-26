@@ -18,7 +18,7 @@ version: "1.9"   #
 # 5. Channel Control (Support for Towny etc.)
 
 # Specify the name of this server here for the %SERVER% placeholder
-server_name: "UNNAMED_SERVER"
+server_name: "粘液服"
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -28,7 +28,7 @@ server_name: "UNNAMED_SERVER"
 
 # Should this server use a different format for the global chat than the one assigned in the Proxy Plugins folder?
 # ( Useful if you want to use local placeholders that may only be present on one server )
-override_global_format: false
+override_global_format: true
 
 # The format to use for the global chat if the setting above is set to true
 # 

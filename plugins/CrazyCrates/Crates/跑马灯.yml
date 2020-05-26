@@ -17,7 +17,7 @@ Crate:
     Lore:
       - '&7一把开启抽奖箱的钥匙'
       - '&7用它打开&e&l跑马灯抽奖箱'
-    Item: 'PAPER#38'
+    Item: 'PAPER#49'
     Glowing: false
   Prizes:
     1:
