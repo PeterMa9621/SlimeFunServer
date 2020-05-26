@@ -1,15 +1,15 @@
 potioni18n:
   SPEED: 速度
-  SLOW: Slow
-  FAST_DIGGING: Fast Digging
-  SLOW_DIGGING: Slow Digging
-  INCREASE_DAMAGE: Increase Damage
-  HEAL: Heal
-  HARM: Harm
-  JUMP: Jump
-  CONFUSION: Confusion
+  SLOW: 缓慢
+  FAST_DIGGING: 速掘
+  SLOW_DIGGING: 挖掘疲劳
+  INCREASE_DAMAGE: 伤害提升
+  HEAL: 治疗
+  HARM: 伤害
+  JUMP: 跳跃
+  CONFUSION: 反胃
   REGENERATION: 生命恢复
-  DAMAGE_RESISTANCE: Damage Resistance
+  DAMAGE_RESISTANCE: 伤害抵抗
   FIRE_RESISTANCE: 防火
   WATER_BREATHING: 水下呼吸
   INVISIBILITY: 隐身
